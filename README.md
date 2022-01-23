@@ -1,1 +1,1 @@
-# Automated-CCTV-using-Object-Detection-Syatem
+# Automated-CCTV-using-Object-Detection-System
