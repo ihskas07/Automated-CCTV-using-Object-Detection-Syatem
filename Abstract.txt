@@ -1,0 +1,7 @@
+The title of the project is Automated CCTV using Object Detection System. We know that surveillance security is a very tedious 
+and time-consuming job. Automating the task of analyzing video surveillance will be very helpful in this regard.
+By using automated CCTVs less manpower will be required and it will also provide effective monitoring. 
+There are many ways of automating a CCTV. Here we will be using YOLO Object Detection with OpenCV and Python. 
+YOLO is the algorithm behind how the code will detect objects in an image or video. This will result in bounding boxes around objects. 
+We can also send mail alert for each object detected by using Python’s built-in smtplib module. It will help in adopting new security trends. 
+Also the model can be trained in a way to detect various actions of humans and tell if they are threatening.
